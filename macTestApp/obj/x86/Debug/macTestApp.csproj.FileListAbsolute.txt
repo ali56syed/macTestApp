@@ -3,5 +3,10 @@
 /Users/irtiza/Visual Studio/macTestApp/macTestApp/obj/x86/Debug/macTestApp.csproj.CoreCompileInputs.cache
 /Users/irtiza/Visual Studio/macTestApp/macTestApp/obj/x86/Debug/macTestApp.exe
 /Users/irtiza/Visual Studio/macTestApp/macTestApp/obj/x86/Debug/macTestApp.pdb
-C:\Users\sali\Documents\GitHub\macTestApp\macTestApp\obj\x86\Debug\macTestApp.exe
-C:\Users\sali\Documents\GitHub\macTestApp\macTestApp\obj\x86\Debug\macTestApp.pdb
+C:/Users/sali/Documents/GitHub/macTestApp/macTestApp/obj/x86/Debug/macTestApp.exe
+C:/Users/sali/Documents/GitHub/macTestApp/macTestApp/obj/x86/Debug/macTestApp.pdb
+/Users/irtiza/Documents/GitHub/macTestApp/macTestApp/bin/Debug/macTestApp.exe
+/Users/irtiza/Documents/GitHub/macTestApp/macTestApp/bin/Debug/macTestApp.pdb
+/Users/irtiza/Documents/GitHub/macTestApp/macTestApp/obj/x86/Debug/macTestApp.csproj.CoreCompileInputs.cache
+/Users/irtiza/Documents/GitHub/macTestApp/macTestApp/obj/x86/Debug/macTestApp.exe
+/Users/irtiza/Documents/GitHub/macTestApp/macTestApp/obj/x86/Debug/macTestApp.pdb
