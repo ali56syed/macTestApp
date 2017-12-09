@@ -1,0 +1,5 @@
+/Users/irtiza/Visual Studio/macTestApp/macTestApp/bin/Debug/macTestApp.exe
+/Users/irtiza/Visual Studio/macTestApp/macTestApp/bin/Debug/macTestApp.pdb
+/Users/irtiza/Visual Studio/macTestApp/macTestApp/obj/x86/Debug/macTestApp.csproj.CoreCompileInputs.cache
+/Users/irtiza/Visual Studio/macTestApp/macTestApp/obj/x86/Debug/macTestApp.exe
+/Users/irtiza/Visual Studio/macTestApp/macTestApp/obj/x86/Debug/macTestApp.pdb
